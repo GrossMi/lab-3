@@ -2,10 +2,9 @@
 
 Для сборки выполнить команды:
 cd src
-javac Main.java 
+javac AppWindow.java 
 mv *.class ../out 
 cd ../out 
-java Main
 
 Для запуска собранной программы необходимо наличие Java Runtime Environment не ниже версии 8, который доступен по ссылки https://www.oracle.com/technetwork/java/javase/downloads/index.html.
 
